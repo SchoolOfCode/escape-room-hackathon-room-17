@@ -1,4 +1,5 @@
 <mxfile host="65bd71144e">
+<<<<<<< HEAD
     <diagram id="a37c_zQ-1RK34l3lUGZv" name="Page-1">
         <mxGraphModel dx="808" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
@@ -6,6 +7,15 @@
                 <mxCell id="1" parent="0"/>
                 <mxCell id="2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
                     <mxGeometry x="290" y="110" width="80" height="80" as="geometry"/>
+=======
+    <diagram id="6zSNNwo92NddfmLZE43p" name="Page-1">
+        <mxGraphModel dx="380" dy="174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="320" width="80" height="80" as="geometry"/>
+>>>>>>> faa3798c7da279c93c28786742ff82f4e2e03c65
                 </mxCell>
             </root>
         </mxGraphModel>
